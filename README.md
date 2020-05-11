@@ -1,8 +1,8 @@
 # Josa Formatter
 받침에 따라 조사(은,는,이,가,을,를 등)를 교정할 수 있는 String.format과 유사한 함수를 제공합니다.
 
-[![CI Status](http://img.shields.io/travis/b1uec0in/JosaFormatter.svg?style=flat)](https://travis-ci.org/b1uec0in/JosaFormatter)
-[![Release](https://jitpack.io/v/b1uec0in/JosaFormatter.svg)](https://jitpack.io/#b1uec0in/JosaFormatter)
+[![CI Status](http://img.shields.io/travis/Lastorder-DC/JosaFormatter.svg?style=flat)](https://travis-ci.org/Lastorder-DC/JosaFormatter)
+[![Release](https://jitpack.io/v/Lastorder-DC/JosaFormatter.svg)](https://jitpack.io/#Lastorder-DC/JosaFormatter)
 [![license: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![language: java|swift](https://img.shields.io/badge/language-java|swift-84acfe.svg)](#repositories)
 
@@ -27,7 +27,7 @@ apply plugin: 'java'  // or 'com.android.application'
 
 dependencies {
 ...
-+ compile 'com.github.b1uec0in:JosaFormatter:+'
++ compile 'com.github.Lastorder-DC:JosaFormatter:+'
 }
 ```
 
@@ -96,17 +96,17 @@ String text = KoreanUtils.format("%s을 구매하시겠습니까?", "베가 베�
 
 ### Repositories
 * Java version<br/>
-https://github.com/b1uec0in/JosaFormatter
+https://github.com/Lastorder-DC/JosaFormatter
 
 * Swift version<br/>
-https://github.com/b1uec0in/SwiftJosaFormatter
+https://github.com/Lastorder-DC/SwiftJosaFormatter
 
 * Android Sample<br/>
-https://github.com/b1uec0in/AndroidJosaFormatter
+https://github.com/Lastorder-DC/AndroidJosaFormatter
 
 ### Reference
 * 한국어 속 영어 읽기<br/>
-http://blog.naver.com/b1uec0in/221025080633
+http://blog.naver.com/Lastorder-DC/221025080633
 
 * 한글 받침에 따라 '을/를' 구분 <br/>
 http://gun0912.tistory.com/65

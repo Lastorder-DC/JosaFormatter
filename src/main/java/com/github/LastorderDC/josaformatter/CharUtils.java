@@ -1,4 +1,4 @@
-package com.github.Lastorder-DC.josaformatter;
+package com.github.LastorderDC.josaformatter;
 
 /**
  * Created by yjbae@sk.com on 2017/05/24.

@@ -1,4 +1,4 @@
-package com.github.Lastorder-DC.josaformatter;
+package com.github.LastorderDC.josaformatter;
 
 import java.util.ArrayList;
 import java.util.Arrays;
